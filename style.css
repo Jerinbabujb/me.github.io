@@ -62,7 +62,7 @@
   .image {
     width: 172px;
     height: 218px;
-    background-image: url("images/image - Copy.jpeg");
+    background-image: url("./images/image - Copy.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -71,6 +71,7 @@
     top: 642px;
     left: 471px;
     display: inline-block;
+      z-index:1;
   }
   .v5_35 {
     width: 900px;
