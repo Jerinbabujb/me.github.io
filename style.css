@@ -103,31 +103,43 @@
   }
   .e-comm{
     font-size: 40px;
-    left: 230px;
-    position: absolute;
+    text-align: center;
+    display: block;
+    font-family: Lobster;
+    margin-bottom: 35px;
   }
   .lib{
-    left: 396px;
-    position: absolute;
-    top: 1796px;
+    text-align: center;
+    display: block; 
     font-size: 40px;
+    font-family: Lobster;
+    margin-bottom: 35px;
   }
   .brain{
-    left: 51px;
-    position: absolute;
-    top: 1920px;
+    text-align: center;
+    display: block;
     font-size: 40px;
+    font-family: Lobster;
+    margin-bottom: 35px;
   }
-  .church{
-    left: 310px;
-    position: absolute;
-    top: 2045px;
-    font-size: 40px;
-  }
+
 .p2p{
-    left: 94px;
-    position: absolute;
-    top: 2161px;
+    text-align: center;
+    display: block;
     font-size: 40px;
+    font-family: Lobster;
+    margin-bottom: 35px;
 }
- 
+.calc{
+  text-align: center;
+  display: block;
+  font-size: 40px;
+  font-family: Lobster;
+  margin-bottom: 35px;
+}
+ .game{
+  text-align: center;
+  font-size: 40px;
+  font-family: Lobster;
+  margin-bottom: 35px;
+}
